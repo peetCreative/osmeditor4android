@@ -440,7 +440,7 @@
             <feature type="way" tags="sidewalk=left" casingStyle="residential_sidewalk_left_casing" />
             <feature type="way" tags="sidewalk=both" casingStyle="residential_sidewalk_both_casing" />
             <feature type="way" tags="sidewalk:right=yes" casingStyle="residential_sidewalk_right_casing" />
-            <feature type="way" tags="sidewalk:right=yes" casingStyle="residential_sidewalk_left_casing" />
+            <feature type="way" tags="sidewalk:left=yes" casingStyle="residential_sidewalk_left_casing" />
             <feature type="way" tags="sidewalk:both=yes" casingStyle="residential_sidewalk_both_casing" />
         </feature>
         <feature type="way" tags="highway=living_street" widthFactor="0.9" color="ffff4500" />
